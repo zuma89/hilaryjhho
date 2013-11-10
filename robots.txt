@@ -1,0 +1,8 @@
+#robots.txt
+
+User-agent: *
+Disallow: /cgi-bin/
+
+User-agent: Googlebot-Image
+Disallow: 
+Sitemap: http://zuma89.github.com/sitemap.xml
