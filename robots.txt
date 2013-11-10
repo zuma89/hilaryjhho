@@ -5,4 +5,4 @@ Disallow: /cgi-bin/
 
 User-agent: Googlebot-Image
 Disallow: 
-Sitemap: http://zuma89.github.com/sitemap.xml
+Sitemap: http://hilaryjhho.com/sitemap.xml
